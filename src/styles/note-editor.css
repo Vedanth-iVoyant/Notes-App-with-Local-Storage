@@ -1,0 +1,10 @@
+.note-editor {
+  padding: 1rem;
+  position: absolute;
+  top: 0;
+  left: 22vw;
+}
+
+.group-name {
+  text-align: center;
+}
